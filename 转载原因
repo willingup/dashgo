@@ -1,0 +1,6 @@
+rosrun dashgo_bringup move_base_square.py
+
+可以测试走弓型
+rosrun dashgo_bringup nav_grid.py
+其他相关的教程可以参考
+https://www.ncnynl.com/archives/201703/1479.html
